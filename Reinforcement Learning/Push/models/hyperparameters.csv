@@ -1,0 +1,2 @@
+actor_lr,critic_lr,discount,tau,batch_size,epochs,episodes_per_epoch,max_timesteps,policy_noise,noise_clip,policy_freq
+0.0003,0.0003,0.98,0.005,512,1000,200,50,0.2,0.5,2
